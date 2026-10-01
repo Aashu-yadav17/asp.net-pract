@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Region,City,Category,Sub-Category,Sales,Profit,Discount
+ORD-0001,2024-09-07,Diya Singh,West,Mumbai,Office Supplies,Pens,3746.59,700.03,0.0
+ORD-0002,2024-04-05,Diya Singh,West,Surat,Technology,Phones,6046.72,-463.3,0.2
+ORD-0003,2024-01-07,Rohan Das,South,Chennai,Furniture,Bookcases,20203.74,698.45,0.3
+ORD-0004,2025-01-24,Riya Sharma,East,Patna,Technology,Phones,9166.79,1091.02,0.1
+ORD-0005,2025-07-19,Rahul Mehta,South,Bengaluru,Furniture,Chairs,20786.3,4385.44,0.2
+ORD-0006,2024-10-23,Riya Sharma,East,Kolkata,Technology,Laptops,21426.35,1779.33,0.0
+ORD-0007,2024-08-02,Vivek Kumar,Central,Nagpur,Furniture,Bookcases,6894.35,508.23,0.3
+ORD-0008,2025-01-23,Rahul Mehta,East,Bhubaneswar,Technology,Printers,24741.23,3327.77,0.3
+ORD-0009,2024-11-19,Aman Verma,Central,Bhopal,Technology,Phones,6913.2,1750.8,0.05
+ORD-0010,2025-02-09,Arjun Patel,Central,Nagpur,Office Supplies,Art Supplies,22889.33,-534.99,0.15
+ORD-0011,2025-01-05,Diya Singh,Central,Raipur,Office Supplies,Art Supplies,24933.95,3029.87,0.05
+ORD-0012,2025-11-27,Aman Verma,West,Mumbai,Technology,Laptops,15031.3,132.27,0.15
+ORD-0013,2025-11-29,Arjun Patel,Central,Bhopal,Office Supplies,Paper,13563.17,2650.28,0.1
+ORD-0014,2024-01-04,Pooja Nair,Central,Raipur,Technology,Printers,21933.57,5476.43,0.1
+ORD-0015,2024-06-05,Neha Shah,West,Ahmedabad,Office Supplies,Binders,19134.02,3634.13,0.2
+ORD-0016,2024-04-24,Arjun Patel,West,Ahmedabad,Furniture,Chairs,9265.62,131.33,0.1
+ORD-0017,2024-03-11,Rohan Das,West,Mumbai,Office Supplies,Art Supplies,13457.84,-263.35,0.05
+ORD-0018,2024-08-04,Arjun Patel,East,Patna,Office Supplies,Art Supplies,13620.61,1033.8,0.3
+ORD-0019,2024-05-03,Diya Singh,South,Hyderabad,Furniture,Storage,5850.02,-437.55,0.1
+ORD-0020,2024-08-22,Riya Sharma,East,Kolkata,Technology,Phones,22663.87,-1013.53,0.1
+ORD-0021,2025-08-07,Anjali Rao,South,Chennai,Office Supplies,Binders,11974.97,2469.23,0.15
+ORD-0022,2025-02-24,Priya Joshi,West,Surat,Furniture,Storage,21636.77,4017.46,0.0
+ORD-0023,2024-04-21,Diya Singh,West,Mumbai,Furniture,Bookcases,5032.27,268.04,0.2
+ORD-0024,2025-03-29,Rohan Das,Central,Raipur,Technology,Phones,21575.32,-1896.55,0.2
+ORD-0025,2025-02-20,Priya Joshi,West,Mumbai,Technology,Laptops,12189.55,2937.4,0.15
+ORD-0026,2024-10-19,Aman Verma,West,Surat,Furniture,Storage,17505.81,3531.02,0.3
+ORD-0027,2024-08-10,Aashu Yadav,South,Chennai,Technology,Accessories,14605.75,-1077.22,0.2
+ORD-0028,2024-02-28,Karan Gupta,West,Surat,Office Supplies,Binders,2278.75,-73.78,0.05
+ORD-0029,2025-08-15,Anjali Rao,East,Guwahati,Technology,Laptops,1281.62,123.97,0.0
+ORD-0030,2024-09-01,Rahul Mehta,Central,Indore,Technology,Accessories,10075.91,917.5,0.3
+ORD-0031,2024-03-16,Karan Gupta,West,Mumbai,Furniture,Chairs,5564.91,-153.59,0.1
+ORD-0032,2024-06-10,Priya Joshi,West,Pune,Furniture,Bookcases,20893.5,-1925.99,0.3
+ORD-0033,2024-05-17,Rahul Mehta,West,Ahmedabad,Office Supplies,Paper,3151.09,661.24,0.0
+ORD-0034,2024-07-27,Vivek Kumar,Central,Nagpur,Office Supplies,Pens,15965.68,1705.91,0.1
+ORD-0035,2024-10-10,Aashu Yadav,West,Mumbai,Office Supplies,Art Supplies,387.58,63.08,0.05
+ORD-0036,2024-04-24,Riya Sharma,South,Kochi,Office Supplies,Paper,23642.76,4040.65,0.3
+ORD-0037,2024-02-12,Rahul Mehta,Central,Nagpur,Furniture,Tables,9306.89,2462.82,0.0
+ORD-0038,2025-09-27,Pooja Nair,East,Kolkata,Furniture,Storage,4117.47,939.14,0.05
+ORD-0039,2024-12-06,Rohan Das,East,Guwahati,Technology,Laptops,23291.15,2914.48,0.3
+ORD-0040,2025-01-26,Simran Kaur,Central,Nagpur,Office Supplies,Paper,1256.5,-45.41,0.15
+ORD-0041,2024-08-16,Aashu Yadav,South,Hyderabad,Furniture,Tables,16602.82,-32.7,0.15
+ORD-0042,2025-11-26,Simran Kaur,Central,Indore,Office Supplies,Art Supplies,13544.53,-130.44,0.0
+ORD-0043,2025-09-02,Aman Verma,East,Patna,Technology,Phones,8838.47,471.7,0.1
+ORD-0044,2024-09-17,Aashu Yadav,West,Surat,Office Supplies,Binders,17807.0,2350.03,0.0
+ORD-0045,2025-11-11,Arjun Patel,East,Patna,Furniture,Chairs,8455.94,1413.84,0.1
+ORD-0046,2024-11-30,Aman Verma,Central,Indore,Office Supplies,Art Supplies,17521.05,-1035.23,0.2
+ORD-0047,2025-02-19,Karan Gupta,South,Chennai,Office Supplies,Pens,20893.01,485.23,0.1
+ORD-0048,2025-11-22,Diya Singh,Central,Raipur,Furniture,Storage,12926.0,-397.91,0.3
+ORD-0049,2024-08-18,Rohan Das,Central,Bhopal,Technology,Accessories,5218.51,-176.52,0.0
+ORD-0050,2025-12-14,Aman Verma,West,Surat,Furniture,Tables,12511.12,-213.97,0.05
+ORD-0051,2025-12-13,Karan Gupta,West,Surat,Technology,Laptops,11774.38,-596.34,0.2
+ORD-0052,2025-03-29,Anjali Rao,South,Chennai,Furniture,Bookcases,20430.66,139.15,0.2
+ORD-0053,2025-04-05,Rahul Mehta,South,Chennai,Office Supplies,Art Supplies,18868.89,-1438.98,0.3
+ORD-0054,2024-03-20,Pooja Nair,South,Chennai,Furniture,Storage,7357.49,160.58,0.1
+ORD-0055,2025-01-27,Pooja Nair,West,Pune,Technology,Laptops,4074.29,-165.71,0.05
+ORD-0056,2025-03-06,Aman Verma,South,Kochi,Technology,Laptops,22649.51,5878.89,0.2
+ORD-0057,2024-11-01,Rohan Das,South,Kochi,Technology,Accessories,9932.67,787.65,0.15
+ORD-0058,2025-03-22,Priya Joshi,East,Guwahati,Technology,Accessories,1016.91,144.58,0.1
+ORD-0059,2025-02-07,Anjali Rao,East,Guwahati,Technology,Phones,14240.48,-293.62,0.0
+ORD-0060,2025-01-23,Neha Shah,South,Chennai,Technology,Accessories,5528.01,126.81,0.1
+ORD-0061,2025-04-26,Aashu Yadav,Central,Raipur,Furniture,Chairs,18800.9,5639.66,0.0
+ORD-0062,2024-07-23,Simran Kaur,West,Mumbai,Technology,Laptops,803.39,15.28,0.05
+ORD-0063,2025-01-12,Sneha Patil,West,Pune,Furniture,Bookcases,15265.55,1192.09,0.3
+ORD-0064,2024-11-15,Anjali Rao,East,Patna,Technology,Phones,17030.48,526.72,0.15
+ORD-0065,2025-12-01,Anjali Rao,West,Pune,Technology,Accessories,20196.54,3557.54,0.2
+ORD-0066,2024-01-13,Simran Kaur,South,Hyderabad,Technology,Accessories,10675.45,-914.98,0.15
+ORD-0067,2025-06-18,Vivek Kumar,South,Chennai,Furniture,Tables,6971.04,1142.79,0.2
+ORD-0068,2024-10-12,Arjun Patel,Central,Indore,Technology,Phones,11434.81,1078.94,0.15
+ORD-0069,2024-07-05,Priya Joshi,Central,Bhopal,Furniture,Bookcases,5539.36,132.42,0.1
+ORD-0070,2024-03-28,Diya Singh,Central,Bhopal,Office Supplies,Binders,18085.84,2077.92,0.15
+ORD-0071,2024-04-05,Rahul Mehta,South,Kochi,Furniture,Chairs,5773.43,-430.23,0.3
+ORD-0072,2025-03-11,Pooja Nair,Central,Raipur,Office Supplies,Pens,13894.6,2433.81,0.1
+ORD-0073,2024-11-19,Riya Sharma,Central,Nagpur,Technology,Laptops,18649.16,-767.67,0.3
+ORD-0074,2024-04-12,Simran Kaur,South,Hyderabad,Office Supplies,Pens,5094.7,332.5,0.05
+ORD-0075,2025-07-20,Rahul Mehta,East,Patna,Technology,Phones,17526.21,2684.99,0.05
+ORD-0076,2025-04-25,Priya Joshi,West,Mumbai,Office Supplies,Pens,11179.58,3106.52,0.05
+ORD-0077,2025-05-18,Riya Sharma,South,Bengaluru,Technology,Printers,14552.42,-1151.69,0.3
+ORD-0078,2025-07-25,Rohan Das,Central,Bhopal,Technology,Phones,10579.5,1996.4,0.2
+ORD-0079,2025-08-25,Aman Verma,South,Kochi,Furniture,Bookcases,7842.89,-986.07,0.2
+ORD-0080,2024-09-27,Vivek Kumar,West,Pune,Office Supplies,Binders,2305.33,9.99,0.05
+ORD-0081,2024-10-25,Aashu Yadav,West,Surat,Furniture,Storage,6017.46,-506.68,0.3
+ORD-0082,2025-03-11,Riya Sharma,West,Pune,Furniture,Tables,13750.69,-821.32,0.3
+ORD-0083,2024-11-10,Anjali Rao,East,Kolkata,Technology,Laptops,18799.26,4084.8,0.2
+ORD-0084,2024-10-05,Karan Gupta,South,Hyderabad,Office Supplies,Art Supplies,13637.54,-535.1,0.15
+ORD-0085,2024-01-27,Riya Sharma,South,Hyderabad,Office Supplies,Pens,5954.43,854.83,0.3
+ORD-0086,2024-06-28,Priya Joshi,West,Ahmedabad,Office Supplies,Paper,13118.41,3210.55,0.15
+ORD-0087,2024-12-22,Aman Verma,South,Kochi,Technology,Printers,8532.72,-534.91,0.3
+ORD-0088,2025-07-17,Aashu Yadav,South,Kochi,Furniture,Storage,11534.2,273.39,0.1
+ORD-0089,2025-02-27,Aashu Yadav,South,Bengaluru,Office Supplies,Art Supplies,4933.29,680.71,0.1
+ORD-0090,2025-07-16,Sneha Patil,South,Bengaluru,Technology,Accessories,23213.52,4972.65,0.15
+ORD-0091,2024-11-14,Karan Gupta,West,Pune,Office Supplies,Binders,637.76,-58.62,0.15
+ORD-0092,2025-05-25,Arjun Patel,West,Surat,Technology,Laptops,18000.1,2585.8,0.2
+ORD-0093,2025-07-18,Sneha Patil,South,Kochi,Technology,Printers,9774.57,366.92,0.2
+ORD-0094,2025-06-03,Rahul Mehta,West,Ahmedabad,Furniture,Bookcases,20567.57,3303.54,0.1
+ORD-0095,2024-12-19,Neha Shah,South,Chennai,Furniture,Storage,13932.36,-175.61,0.2
+ORD-0096,2024-08-27,Simran Kaur,East,Bhubaneswar,Office Supplies,Art Supplies,19455.95,1193.85,0.0
+ORD-0097,2025-05-22,Aashu Yadav,South,Kochi,Office Supplies,Binders,3418.28,130.47,0.2
+ORD-0098,2024-01-16,Pooja Nair,South,Bengaluru,Office Supplies,Art Supplies,3860.64,967.11,0.3
+ORD-0099,2025-10-27,Riya Sharma,Central,Indore,Office Supplies,Art Supplies,21338.6,3737.85,0.3
+ORD-0100,2025-09-24,Riya Sharma,Central,Raipur,Office Supplies,Paper,6098.83,747.92,0.3
+ORD-0101,2025-03-30,Sneha Patil,West,Surat,Technology,Phones,17441.83,-591.33,0.0
+ORD-0102,2024-05-29,Diya Singh,Central,Indore,Furniture,Storage,13419.81,2069.68,0.2
+ORD-0103,2025-09-26,Vivek Kumar,East,Kolkata,Office Supplies,Art Supplies,6248.5,-354.92,0.2
+ORD-0104,2025-04-21,Arjun Patel,Central,Raipur,Furniture,Chairs,7404.5,-370.57,0.2
+ORD-0105,2025-12-07,Rahul Mehta,Central,Indore,Office Supplies,Art Supplies,11583.84,-65.59,0.1
+ORD-0106,2025-08-08,Neha Shah,South,Bengaluru,Technology,Printers,14497.85,-1363.13,0.3
+ORD-0107,2025-09-12,Pooja Nair,South,Hyderabad,Technology,Phones,12569.16,2542.8,0.1
+ORD-0108,2025-09-27,Rahul Mehta,Central,Nagpur,Office Supplies,Binders,17040.78,1821.87,0.3
+ORD-0109,2024-11-12,Rohan Das,East,Kolkata,Office Supplies,Paper,11188.33,527.96,0.2
+ORD-0110,2024-06-28,Diya Singh,Central,Indore,Office Supplies,Art Supplies,3564.35,739.58,0.2
+ORD-0111,2024-10-29,Pooja Nair,Central,Nagpur,Furniture,Storage,21798.8,2483.23,0.0
+ORD-0112,2024-04-02,Rohan Das,East,Guwahati,Office Supplies,Pens,10045.99,1101.13,0.1
+ORD-0113,2024-04-20,Vivek Kumar,Central,Raipur,Office Supplies,Pens,6075.4,1013.63,0.0
+ORD-0114,2025-10-12,Simran Kaur,Central,Nagpur,Office Supplies,Paper,11767.41,-273.34,0.3
+ORD-0115,2025-05-19,Riya Sharma,East,Kolkata,Technology,Accessories,2700.64,-158.82,0.2
+ORD-0116,2025-05-16,Anjali Rao,South,Chennai,Furniture,Chairs,10380.46,-657.81,0.1
+ORD-0117,2024-04-11,Vivek Kumar,South,Kochi,Technology,Accessories,9373.17,-21.0,0.3
+ORD-0118,2025-11-09,Diya Singh,East,Kolkata,Furniture,Chairs,16150.1,4293.28,0.2
+ORD-0119,2024-03-11,Simran Kaur,Central,Nagpur,Technology,Laptops,19199.39,2572.2,0.05
+ORD-0120,2024-10-10,Simran Kaur,East,Patna,Technology,Phones,24605.49,2906.03,0.05
+ORD-0121,2025-01-01,Rohan Das,West,Mumbai,Technology,Phones,19774.26,580.97,0.2
+ORD-0122,2025-06-22,Riya Sharma,West,Pune,Office Supplies,Art Supplies,18717.93,1313.51,0.15
+ORD-0123,2025-09-21,Aashu Yadav,West,Surat,Office Supplies,Binders,18262.9,868.27,0.3
+ORD-0124,2025-03-12,Vivek Kumar,West,Mumbai,Furniture,Storage,2966.66,681.08,0.3
+ORD-0125,2024-03-08,Sneha Patil,West,Ahmedabad,Office Supplies,Binders,7092.9,279.6,0.3
+ORD-0126,2024-04-11,Rohan Das,South,Hyderabad,Furniture,Storage,17633.95,979.48,0.3
+ORD-0127,2025-02-27,Neha Shah,East,Guwahati,Furniture,Tables,20737.25,1553.04,0.15
+ORD-0128,2025-01-18,Sneha Patil,South,Hyderabad,Office Supplies,Pens,17264.48,-1578.14,0.15
+ORD-0129,2024-05-13,Karan Gupta,West,Surat,Technology,Accessories,1781.53,130.03,0.2
+ORD-0130,2024-02-22,Rahul Mehta,South,Hyderabad,Office Supplies,Art Supplies,15130.13,-666.28,0.1
+ORD-0131,2024-12-24,Simran Kaur,East,Guwahati,Technology,Phones,14039.76,3045.39,0.0
+ORD-0132,2024-01-30,Sneha Patil,South,Bengaluru,Office Supplies,Pens,7049.78,1751.85,0.1
+ORD-0133,2024-03-12,Sneha Patil,East,Bhubaneswar,Office Supplies,Art Supplies,18601.94,-332.69,0.0
+ORD-0134,2024-06-10,Neha Shah,South,Kochi,Furniture,Bookcases,7997.44,1513.03,0.1
+ORD-0135,2025-09-24,Aashu Yadav,West,Mumbai,Technology,Laptops,16947.03,1324.05,0.1
+ORD-0136,2025-06-08,Riya Sharma,South,Kochi,Furniture,Tables,8825.77,433.67,0.0
+ORD-0137,2025-02-08,Anjali Rao,South,Hyderabad,Technology,Laptops,1653.11,76.49,0.05
+ORD-0138,2024-05-02,Aashu Yadav,East,Patna,Furniture,Bookcases,12585.42,-331.24,0.15
+ORD-0139,2024-02-13,Aman Verma,East,Patna,Technology,Printers,762.92,192.06,0.0
+ORD-0140,2025-02-18,Aashu Yadav,South,Kochi,Furniture,Chairs,24165.13,5149.6,0.05
+ORD-0141,2024-09-06,Aman Verma,Central,Bhopal,Furniture,Chairs,14845.12,-1664.37,0.2
+ORD-0142,2024-03-19,Karan Gupta,Central,Nagpur,Furniture,Tables,15940.65,574.01,0.2
+ORD-0143,2024-08-29,Riya Sharma,Central,Indore,Office Supplies,Binders,3917.17,10.45,0.05
+ORD-0144,2025-04-20,Rohan Das,West,Pune,Office Supplies,Art Supplies,14224.27,187.54,0.2
+ORD-0145,2024-03-10,Priya Joshi,Central,Indore,Technology,Printers,11222.54,2189.05,0.1
+ORD-0146,2025-04-07,Aashu Yadav,Central,Bhopal,Furniture,Storage,1705.18,-115.46,0.1
+ORD-0147,2025-04-05,Arjun Patel,West,Surat,Furniture,Chairs,20302.45,-1760.57,0.3
+ORD-0148,2024-12-17,Pooja Nair,East,Kolkata,Furniture,Chairs,2382.93,-117.56,0.3
+ORD-0149,2025-01-07,Neha Shah,South,Kochi,Office Supplies,Binders,22973.04,1327.09,0.15
+ORD-0150,2024-04-06,Karan Gupta,West,Ahmedabad,Technology,Accessories,17055.97,-100.02,0.1
+ORD-0151,2024-12-24,Rahul Mehta,East,Patna,Technology,Laptops,24202.1,3298.1,0.3
+ORD-0152,2025-10-20,Rohan Das,West,Ahmedabad,Office Supplies,Art Supplies,8413.37,1371.06,0.05
+ORD-0153,2024-01-19,Neha Shah,West,Surat,Office Supplies,Pens,7928.99,390.77,0.05
+ORD-0154,2024-03-20,Rahul Mehta,East,Bhubaneswar,Technology,Laptops,21157.38,2701.62,0.0
+ORD-0155,2025-09-03,Aman Verma,West,Ahmedabad,Office Supplies,Binders,4110.04,906.46,0.05
+ORD-0156,2025-01-08,Vivek Kumar,East,Guwahati,Technology,Printers,18073.77,1871.81,0.15
+ORD-0157,2024-11-12,Rohan Das,South,Chennai,Office Supplies,Binders,19673.94,1078.17,0.05
+ORD-0158,2025-05-29,Karan Gupta,South,Kochi,Furniture,Storage,10640.92,2286.59,0.05
+ORD-0159,2025-01-15,Karan Gupta,East,Patna,Technology,Printers,23377.05,2663.17,0.3
+ORD-0160,2025-04-05,Arjun Patel,Central,Bhopal,Technology,Accessories,12979.81,-1136.13,0.15
+ORD-0161,2024-02-24,Aman Verma,South,Hyderabad,Technology,Printers,12699.58,997.25,0.05
+ORD-0162,2025-10-27,Neha Shah,East,Kolkata,Furniture,Chairs,19847.1,-1189.67,0.05
+ORD-0163,2025-04-04,Anjali Rao,South,Chennai,Office Supplies,Art Supplies,429.7,-18.63,0.0
+ORD-0164,2024-08-31,Rahul Mehta,East,Guwahati,Technology,Accessories,3309.65,251.74,0.05
+ORD-0165,2025-09-03,Karan Gupta,South,Bengaluru,Technology,Printers,705.95,52.09,0.2
+ORD-0166,2024-09-03,Anjali Rao,Central,Raipur,Technology,Accessories,10589.22,964.22,0.3
+ORD-0167,2025-02-03,Simran Kaur,Central,Bhopal,Office Supplies,Paper,11912.34,126.42,0.3
+ORD-0168,2024-09-03,Pooja Nair,West,Ahmedabad,Technology,Accessories,16530.48,3637.13,0.0
+ORD-0169,2025-07-13,Neha Shah,Central,Nagpur,Technology,Accessories,20393.67,4526.18,0.05
+ORD-0170,2025-04-13,Aashu Yadav,South,Chennai,Technology,Phones,7548.03,1712.56,0.0
+ORD-0171,2025-07-10,Priya Joshi,Central,Indore,Office Supplies,Art Supplies,6556.85,-366.86,0.3
+ORD-0172,2025-01-11,Aman Verma,West,Ahmedabad,Furniture,Chairs,22270.32,-910.18,0.3
+ORD-0173,2025-01-11,Arjun Patel,Central,Nagpur,Furniture,Storage,19993.08,3825.05,0.1
+ORD-0174,2025-07-12,Rahul Mehta,West,Surat,Office Supplies,Binders,8233.92,533.33,0.0
+ORD-0175,2024-12-25,Priya Joshi,South,Kochi,Technology,Printers,1346.17,185.5,0.1
+ORD-0176,2025-01-07,Karan Gupta,West,Mumbai,Office Supplies,Art Supplies,20087.07,-557.25,0.3
+ORD-0177,2024-08-29,Rohan Das,South,Bengaluru,Technology,Phones,16235.52,833.03,0.1
+ORD-0178,2025-03-30,Rohan Das,East,Guwahati,Furniture,Bookcases,2199.07,269.06,0.05
+ORD-0179,2024-07-09,Priya Joshi,Central,Nagpur,Technology,Phones,13088.31,-1188.17,0.2
+ORD-0180,2025-12-11,Arjun Patel,South,Chennai,Office Supplies,Pens,24966.13,-727.35,0.05
+ORD-0181,2024-03-30,Rohan Das,South,Chennai,Office Supplies,Art Supplies,17143.65,2492.04,0.1
+ORD-0182,2025-01-05,Karan Gupta,Central,Indore,Technology,Laptops,5838.77,1269.86,0.05
+ORD-0183,2025-04-23,Rohan Das,South,Bengaluru,Furniture,Bookcases,24580.4,3870.37,0.05
+ORD-0184,2025-06-22,Aman Verma,Central,Raipur,Office Supplies,Art Supplies,19298.36,-2353.97,0.2
+ORD-0185,2024-05-11,Arjun Patel,West,Surat,Furniture,Bookcases,20777.63,2895.8,0.2
+ORD-0186,2024-05-07,Karan Gupta,East,Guwahati,Office Supplies,Paper,4079.48,-69.38,0.05
+ORD-0187,2024-03-21,Rahul Mehta,East,Patna,Office Supplies,Pens,5148.66,-123.28,0.2
+ORD-0188,2024-06-24,Vivek Kumar,West,Pune,Office Supplies,Binders,15724.64,-404.87,0.2
+ORD-0189,2025-10-18,Rohan Das,West,Mumbai,Technology,Phones,14546.25,-1089.13,0.3
+ORD-0190,2025-10-19,Rahul Mehta,West,Surat,Office Supplies,Pens,12228.74,94.25,0.3
+ORD-0191,2025-05-10,Priya Joshi,West,Pune,Furniture,Storage,5339.37,-473.25,0.2
+ORD-0192,2025-01-14,Karan Gupta,Central,Indore,Furniture,Tables,14172.79,279.31,0.1
+ORD-0193,2024-02-21,Rahul Mehta,South,Chennai,Technology,Phones,23651.01,-15.79,0.2
+ORD-0194,2024-07-13,Rohan Das,East,Patna,Office Supplies,Pens,4235.76,97.67,0.2
+ORD-0195,2025-06-01,Priya Joshi,South,Bengaluru,Technology,Printers,24177.16,3582.99,0.05
+ORD-0196,2024-10-19,Karan Gupta,Central,Raipur,Office Supplies,Art Supplies,501.98,50.61,0.0
+ORD-0197,2025-02-14,Aashu Yadav,Central,Raipur,Furniture,Chairs,14385.96,951.07,0.05
+ORD-0198,2025-09-30,Vivek Kumar,South,Kochi,Office Supplies,Pens,15392.77,4285.36,0.05
+ORD-0199,2025-09-08,Karan Gupta,Central,Indore,Technology,Laptops,10214.26,-348.75,0.0
+ORD-0200,2024-06-01,Anjali Rao,Central,Raipur,Office Supplies,Art Supplies,22360.35,1062.71,0.05
+ORD-0201,2025-08-30,Neha Shah,East,Guwahati,Office Supplies,Pens,12830.68,764.96,0.2
+ORD-0202,2024-12-05,Vivek Kumar,Central,Raipur,Technology,Accessories,3007.23,275.13,0.15
+ORD-0203,2024-02-22,Anjali Rao,West,Surat,Furniture,Tables,12167.08,1223.76,0.2
+ORD-0204,2024-02-02,Anjali Rao,South,Chennai,Office Supplies,Binders,23720.67,397.9,0.0
+ORD-0205,2025-02-24,Karan Gupta,South,Chennai,Furniture,Tables,19441.82,3817.13,0.15
+ORD-0206,2025-07-28,Neha Shah,West,Pune,Office Supplies,Binders,24953.63,2497.65,0.15
+ORD-0207,2025-07-13,Neha Shah,East,Guwahati,Office Supplies,Pens,16993.95,1050.61,0.3
+ORD-0208,2024-10-12,Karan Gupta,Central,Raipur,Technology,Laptops,7672.93,1394.29,0.1
+ORD-0209,2025-07-27,Arjun Patel,South,Hyderabad,Furniture,Bookcases,23381.79,25.37,0.3
+ORD-0210,2024-10-24,Aashu Yadav,South,Kochi,Furniture,Tables,7404.47,-1208.56,0.3
+ORD-0211,2025-07-05,Rahul Mehta,Central,Raipur,Technology,Laptops,23345.69,45.77,0.3
+ORD-0212,2025-10-15,Diya Singh,East,Bhubaneswar,Technology,Laptops,1596.53,35.54,0.15
+ORD-0213,2025-02-20,Vivek Kumar,East,Kolkata,Office Supplies,Binders,23395.29,2108.84,0.15
+ORD-0214,2024-04-01,Vivek Kumar,Central,Indore,Furniture,Chairs,14481.09,1745.17,0.2
+ORD-0215,2024-02-07,Simran Kaur,West,Pune,Furniture,Tables,10105.77,-452.04,0.15
+ORD-0216,2025-08-04,Anjali Rao,Central,Bhopal,Technology,Accessories,2950.33,0.1,0.1
+ORD-0217,2024-10-06,Diya Singh,South,Chennai,Office Supplies,Art Supplies,20277.7,-435.64,0.1
+ORD-0218,2024-10-29,Anjali Rao,Central,Nagpur,Technology,Accessories,16957.71,-181.44,0.05
+ORD-0219,2024-03-29,Aman Verma,South,Kochi,Office Supplies,Pens,16830.62,4696.43,0.05
+ORD-0220,2024-08-29,Priya Joshi,East,Kolkata,Furniture,Storage,18917.79,317.17,0.1
+ORD-0221,2025-12-10,Diya Singh,West,Ahmedabad,Office Supplies,Pens,1834.47,207.09,0.0
+ORD-0222,2025-01-11,Anjali Rao,Central,Bhopal,Office Supplies,Pens,5754.98,594.28,0.05
+ORD-0223,2025-07-04,Rohan Das,Central,Raipur,Office Supplies,Art Supplies,16703.13,3307.96,0.05
+ORD-0224,2024-03-20,Arjun Patel,West,Surat,Office Supplies,Pens,14234.97,3417.4,0.0
+ORD-0225,2025-06-16,Priya Joshi,East,Bhubaneswar,Technology,Accessories,3171.13,590.29,0.05
+ORD-0226,2025-06-09,Aman Verma,South,Bengaluru,Furniture,Tables,11582.92,1686.23,0.0
+ORD-0227,2024-01-04,Pooja Nair,Central,Bhopal,Furniture,Bookcases,5682.16,-194.04,0.0
+ORD-0228,2024-02-02,Rahul Mehta,West,Mumbai,Technology,Printers,10399.01,2011.93,0.05
+ORD-0229,2025-01-21,Aman Verma,South,Hyderabad,Furniture,Storage,2282.17,479.56,0.3
+ORD-0230,2025-06-25,Sneha Patil,Central,Bhopal,Technology,Printers,18278.1,4058.91,0.05
+ORD-0231,2025-06-28,Aman Verma,Central,Raipur,Office Supplies,Art Supplies,20637.0,2128.01,0.05
+ORD-0232,2025-09-21,Rohan Das,East,Kolkata,Technology,Printers,23425.08,801.92,0.0
+ORD-0233,2024-09-07,Pooja Nair,West,Surat,Office Supplies,Paper,1392.65,5.55,0.15
+ORD-0234,2024-08-27,Simran Kaur,West,Pune,Office Supplies,Pens,22935.01,-142.59,0.2
+ORD-0235,2025-11-07,Karan Gupta,Central,Nagpur,Furniture,Tables,5759.76,80.84,0.1
+ORD-0236,2024-02-18,Neha Shah,East,Guwahati,Office Supplies,Art Supplies,23557.18,-224.53,0.3
+ORD-0237,2025-01-20,Sneha Patil,South,Kochi,Technology,Accessories,18934.08,110.16,0.15
+ORD-0238,2025-03-02,Karan Gupta,East,Guwahati,Technology,Printers,13390.8,104.45,0.15
+ORD-0239,2025-07-02,Pooja Nair,West,Surat,Furniture,Chairs,20786.34,913.8,0.0
+ORD-0240,2025-05-05,Diya Singh,West,Mumbai,Technology,Laptops,21776.0,212.45,0.1
+ORD-0241,2025-05-05,Arjun Patel,East,Bhubaneswar,Office Supplies,Paper,6292.05,909.76,0.2
+ORD-0242,2025-04-22,Karan Gupta,East,Patna,Furniture,Storage,16323.42,180.11,0.1
+ORD-0243,2024-11-23,Arjun Patel,South,Kochi,Technology,Printers,5317.25,331.66,0.1
+ORD-0244,2025-07-20,Arjun Patel,East,Bhubaneswar,Technology,Accessories,14725.59,704.81,0.3
+ORD-0245,2025-05-26,Karan Gupta,Central,Nagpur,Furniture,Tables,16468.82,-880.35,0.3
+ORD-0246,2024-12-26,Sneha Patil,South,Kochi,Furniture,Tables,3756.98,103.54,0.2
+ORD-0247,2024-01-07,Aman Verma,West,Mumbai,Technology,Phones,3696.04,-309.94,0.3
+ORD-0248,2025-01-17,Aashu Yadav,West,Pune,Office Supplies,Art Supplies,15560.53,2137.02,0.3
+ORD-0249,2024-01-13,Aashu Yadav,South,Bengaluru,Technology,Printers,13376.62,1552.23,0.1
+ORD-0250,2025-06-20,Sneha Patil,South,Chennai,Technology,Phones,6251.93,306.61,0.2
+ORD-0251,2025-02-19,Priya Joshi,Central,Raipur,Technology,Accessories,14255.55,-1183.71,0.3
+ORD-0252,2025-01-23,Aman Verma,West,Mumbai,Technology,Printers,13951.73,2411.72,0.0
+ORD-0253,2025-08-02,Simran Kaur,West,Surat,Furniture,Bookcases,24353.84,5682.29,0.2
+ORD-0254,2025-12-01,Arjun Patel,South,Hyderabad,Technology,Phones,7225.21,900.23,0.2
+ORD-0255,2025-12-30,Simran Kaur,Central,Bhopal,Technology,Laptops,10137.91,555.02,0.0
+ORD-0256,2025-12-06,Pooja Nair,South,Hyderabad,Furniture,Tables,2237.16,569.51,0.3
+ORD-0257,2025-09-11,Rohan Das,South,Chennai,Technology,Accessories,15462.47,107.64,0.2
+ORD-0258,2024-08-21,Neha Shah,West,Ahmedabad,Furniture,Storage,13960.03,633.3,0.15
+ORD-0259,2024-09-09,Pooja Nair,South,Bengaluru,Office Supplies,Pens,2115.62,-72.97,0.1
+ORD-0260,2024-04-19,Riya Sharma,East,Guwahati,Furniture,Bookcases,428.32,27.93,0.1
+ORD-0261,2025-03-17,Priya Joshi,West,Pune,Technology,Laptops,14057.53,994.07,0.2
+ORD-0262,2025-01-29,Aashu Yadav,Central,Bhopal,Office Supplies,Pens,7508.63,1233.06,0.15
+ORD-0263,2024-06-22,Sneha Patil,East,Bhubaneswar,Office Supplies,Art Supplies,6942.3,764.09,0.1
+ORD-0264,2025-05-10,Rohan Das,South,Hyderabad,Furniture,Bookcases,2199.96,531.6,0.1
+ORD-0265,2024-05-18,Rahul Mehta,South,Chennai,Furniture,Chairs,467.15,6.57,0.15
+ORD-0266,2025-10-28,Anjali Rao,Central,Raipur,Furniture,Storage,3662.27,451.6,0.1
+ORD-0267,2024-11-22,Rahul Mehta,South,Hyderabad,Technology,Printers,18451.4,419.71,0.3
+ORD-0268,2025-02-06,Neha Shah,East,Patna,Furniture,Bookcases,3113.03,-248.58,0.2
+ORD-0269,2025-12-26,Diya Singh,East,Kolkata,Office Supplies,Art Supplies,11129.84,2539.63,0.1
+ORD-0270,2024-09-04,Rahul Mehta,South,Kochi,Technology,Accessories,16568.98,378.7,0.3
+ORD-0271,2025-07-01,Karan Gupta,South,Kochi,Office Supplies,Art Supplies,23110.35,1432.69,0.3
+ORD-0272,2025-11-04,Vivek Kumar,Central,Bhopal,Technology,Laptops,9068.72,606.25,0.3
+ORD-0273,2024-01-11,Riya Sharma,South,Hyderabad,Furniture,Chairs,6690.84,981.94,0.2
+ORD-0274,2025-04-19,Rohan Das,East,Guwahati,Furniture,Storage,17085.02,918.61,0.3
+ORD-0275,2025-03-01,Arjun Patel,West,Surat,Technology,Accessories,24054.68,5796.24,0.0
+ORD-0276,2024-07-30,Karan Gupta,Central,Indore,Furniture,Storage,12228.27,-906.75,0.15
+ORD-0277,2024-02-15,Rohan Das,South,Hyderabad,Technology,Accessories,17856.24,4414.29,0.0
+ORD-0278,2025-07-19,Sneha Patil,East,Bhubaneswar,Office Supplies,Binders,8475.44,2174.38,0.15
+ORD-0279,2025-02-09,Aashu Yadav,South,Chennai,Technology,Printers,18513.49,1735.83,0.05
+ORD-0280,2025-12-21,Rohan Das,West,Pune,Technology,Accessories,19961.4,-2078.88,0.2
+ORD-0281,2025-04-13,Riya Sharma,East,Patna,Furniture,Tables,6780.13,551.59,0.15
+ORD-0282,2024-12-22,Neha Shah,South,Kochi,Office Supplies,Paper,21184.29,-1345.25,0.2
+ORD-0283,2024-11-16,Riya Sharma,Central,Bhopal,Office Supplies,Binders,6192.75,87.1,0.0
+ORD-0284,2025-08-11,Aman Verma,South,Kochi,Office Supplies,Binders,10749.06,1244.95,0.15
+ORD-0285,2024-05-23,Sneha Patil,East,Bhubaneswar,Furniture,Bookcases,8070.13,805.9,0.15
+ORD-0286,2025-01-28,Karan Gupta,West,Surat,Technology,Laptops,12784.32,622.51,0.15
+ORD-0287,2025-08-01,Aashu Yadav,South,Kochi,Technology,Phones,19958.26,832.95,0.05
+ORD-0288,2025-07-16,Karan Gupta,Central,Nagpur,Furniture,Storage,3096.31,135.5,0.0
+ORD-0289,2025-07-13,Diya Singh,Central,Bhopal,Office Supplies,Art Supplies,24747.46,5137.47,0.0
+ORD-0290,2024-09-26,Neha Shah,East,Patna,Technology,Printers,21596.33,2238.99,0.0
+ORD-0291,2025-12-28,Anjali Rao,East,Bhubaneswar,Office Supplies,Pens,15929.43,2309.07,0.05
+ORD-0292,2025-06-29,Rahul Mehta,East,Kolkata,Office Supplies,Pens,15042.38,664.84,0.05
+ORD-0293,2024-05-18,Rohan Das,Central,Indore,Office Supplies,Paper,19706.57,5860.15,0.0
+ORD-0294,2025-12-29,Neha Shah,East,Bhubaneswar,Technology,Laptops,20763.5,838.53,0.3
+ORD-0295,2024-03-18,Vivek Kumar,Central,Raipur,Furniture,Storage,19926.59,1813.28,0.0
+ORD-0296,2025-08-18,Aashu Yadav,Central,Raipur,Furniture,Bookcases,21762.02,-3570.24,0.3
+ORD-0297,2024-08-11,Aman Verma,Central,Bhopal,Office Supplies,Art Supplies,20673.74,-428.21,0.15
+ORD-0298,2024-12-17,Arjun Patel,Central,Nagpur,Office Supplies,Art Supplies,17159.03,-582.03,0.0
+ORD-0299,2025-03-27,Priya Joshi,South,Bengaluru,Technology,Laptops,316.7,-11.24,0.15
+ORD-0300,2024-04-05,Vivek Kumar,East,Patna,Technology,Accessories,9202.75,737.56,0.0
+ORD-0301,2025-12-17,Rohan Das,East,Kolkata,Furniture,Bookcases,6083.35,-361.97,0.3
+ORD-0302,2025-08-30,Diya Singh,East,Guwahati,Technology,Laptops,13130.27,-1358.79,0.15
+ORD-0303,2025-05-04,Riya Sharma,West,Surat,Office Supplies,Binders,5954.99,1225.34,0.0
+ORD-0304,2025-01-26,Rohan Das,Central,Indore,Furniture,Tables,20390.19,3181.05,0.05
+ORD-0305,2025-03-26,Neha Shah,West,Mumbai,Office Supplies,Binders,18144.07,1297.42,0.3
+ORD-0306,2024-05-23,Rohan Das,South,Chennai,Technology,Phones,3341.98,-204.46,0.3
+ORD-0307,2025-10-22,Riya Sharma,Central,Nagpur,Technology,Accessories,6429.73,587.65,0.2
+ORD-0308,2025-02-05,Rahul Mehta,West,Ahmedabad,Technology,Laptops,16260.39,1885.49,0.05
+ORD-0309,2025-01-04,Arjun Patel,South,Bengaluru,Office Supplies,Paper,8116.87,1641.09,0.15
+ORD-0310,2024-01-18,Anjali Rao,Central,Nagpur,Furniture,Chairs,1968.05,-42.1,0.1
+ORD-0311,2025-03-09,Pooja Nair,South,Hyderabad,Office Supplies,Art Supplies,10236.25,346.72,0.3
+ORD-0312,2025-06-07,Arjun Patel,Central,Bhopal,Furniture,Chairs,5318.98,664.46,0.05
+ORD-0313,2024-09-01,Aashu Yadav,West,Ahmedabad,Office Supplies,Art Supplies,6338.65,-387.56,0.15
+ORD-0314,2024-05-02,Aashu Yadav,West,Ahmedabad,Office Supplies,Binders,17785.14,-2411.61,0.3
+ORD-0315,2024-05-09,Pooja Nair,Central,Indore,Technology,Accessories,19593.76,3758.19,0.1
+ORD-0316,2025-06-20,Riya Sharma,West,Ahmedabad,Furniture,Bookcases,6794.86,747.06,0.2
+ORD-0317,2025-01-11,Sneha Patil,Central,Bhopal,Furniture,Tables,6601.37,1736.12,0.0
+ORD-0318,2024-02-15,Simran Kaur,West,Pune,Office Supplies,Paper,21614.33,-998.28,0.05
+ORD-0319,2024-08-17,Neha Shah,East,Bhubaneswar,Technology,Printers,6432.1,-431.87,0.3
+ORD-0320,2024-07-02,Diya Singh,Central,Bhopal,Office Supplies,Paper,20167.15,5726.01,0.0
+ORD-0321,2024-03-29,Karan Gupta,South,Hyderabad,Furniture,Bookcases,11581.63,-142.66,0.1
+ORD-0322,2025-08-28,Priya Joshi,Central,Nagpur,Furniture,Bookcases,24945.34,4750.37,0.05
+ORD-0323,2024-01-25,Diya Singh,East,Bhubaneswar,Technology,Printers,13676.17,1485.06,0.3
+ORD-0324,2024-11-10,Riya Sharma,Central,Bhopal,Office Supplies,Art Supplies,5368.3,390.34,0.05
+ORD-0325,2024-08-25,Arjun Patel,East,Patna,Technology,Phones,21183.95,3345.94,0.15
+ORD-0326,2025-10-14,Simran Kaur,West,Mumbai,Office Supplies,Binders,10040.48,943.19,0.2
+ORD-0327,2024-11-18,Arjun Patel,East,Bhubaneswar,Furniture,Bookcases,20080.18,3454.09,0.3
+ORD-0328,2024-07-26,Sneha Patil,South,Hyderabad,Technology,Phones,19564.44,-788.68,0.2
+ORD-0329,2024-05-03,Karan Gupta,South,Kochi,Furniture,Storage,9149.7,859.19,0.05
+ORD-0330,2025-12-22,Pooja Nair,West,Mumbai,Technology,Accessories,15201.57,3511.83,0.05
+ORD-0331,2025-06-09,Aashu Yadav,West,Pune,Furniture,Storage,17026.43,3747.12,0.1
+ORD-0332,2024-04-06,Priya Joshi,South,Kochi,Office Supplies,Binders,2817.11,-38.66,0.05
+ORD-0333,2025-01-16,Vivek Kumar,East,Bhubaneswar,Technology,Printers,15868.35,-1918.81,0.3
+ORD-0334,2025-10-23,Priya Joshi,West,Mumbai,Technology,Laptops,20289.68,5412.83,0.0
+ORD-0335,2024-02-21,Sneha Patil,Central,Bhopal,Technology,Printers,23126.05,4599.54,0.15
+ORD-0336,2024-06-25,Neha Shah,West,Surat,Office Supplies,Art Supplies,5603.49,181.12,0.05
+ORD-0337,2025-10-24,Rahul Mehta,East,Kolkata,Office Supplies,Binders,12622.62,1144.15,0.2
+ORD-0338,2025-10-20,Arjun Patel,South,Chennai,Furniture,Tables,19990.79,2993.03,0.05
+ORD-0339,2025-05-06,Karan Gupta,West,Surat,Office Supplies,Pens,19601.45,4691.44,0.1
+ORD-0340,2024-11-22,Anjali Rao,South,Hyderabad,Technology,Phones,5709.8,-451.96,0.1
+ORD-0341,2024-09-10,Vivek Kumar,Central,Nagpur,Technology,Phones,6256.47,890.41,0.2
+ORD-0342,2024-12-29,Arjun Patel,West,Pune,Office Supplies,Art Supplies,21028.79,-109.67,0.05
+ORD-0343,2025-08-04,Anjali Rao,Central,Bhopal,Office Supplies,Pens,3809.93,844.42,0.05
+ORD-0344,2024-02-08,Riya Sharma,South,Hyderabad,Technology,Printers,1687.35,-59.96,0.2
+ORD-0345,2024-05-13,Neha Shah,West,Ahmedabad,Office Supplies,Binders,18008.36,-811.53,0.1
+ORD-0346,2024-03-15,Neha Shah,East,Kolkata,Office Supplies,Pens,17702.09,820.22,0.3
+ORD-0347,2025-03-23,Rohan Das,Central,Indore,Technology,Laptops,16089.87,2441.81,0.15
+ORD-0348,2025-01-22,Rahul Mehta,Central,Nagpur,Office Supplies,Binders,18429.68,-821.62,0.1
+ORD-0349,2025-09-18,Diya Singh,South,Bengaluru,Technology,Accessories,16099.28,4473.04,0.0
+ORD-0350,2024-06-20,Vivek Kumar,West,Pune,Furniture,Bookcases,22167.41,5266.57,0.0
+ORD-0351,2024-08-02,Diya Singh,Central,Raipur,Technology,Accessories,17421.45,444.4,0.1
+ORD-0352,2025-03-05,Sneha Patil,West,Mumbai,Furniture,Storage,22148.43,4929.04,0.15
+ORD-0353,2024-06-15,Priya Joshi,South,Bengaluru,Furniture,Tables,2120.62,112.86,0.0
+ORD-0354,2025-01-19,Sneha Patil,West,Mumbai,Furniture,Tables,18380.03,3334.11,0.2
+ORD-0355,2025-03-17,Vivek Kumar,Central,Raipur,Office Supplies,Paper,4375.43,-70.4,0.15
+ORD-0356,2025-11-07,Rahul Mehta,East,Bhubaneswar,Furniture,Bookcases,7645.8,-249.46,0.0
+ORD-0357,2024-01-04,Aman Verma,South,Chennai,Technology,Accessories,2464.42,199.97,0.3
+ORD-0358,2025-10-15,Rahul Mehta,West,Mumbai,Technology,Laptops,24433.33,5175.42,0.15
+ORD-0359,2024-04-03,Vivek Kumar,South,Kochi,Furniture,Bookcases,13739.91,923.71,0.05
+ORD-0360,2025-03-26,Priya Joshi,East,Guwahati,Technology,Accessories,6806.0,894.59,0.1
+ORD-0361,2025-07-08,Aman Verma,West,Mumbai,Office Supplies,Pens,24276.43,115.33,0.2
+ORD-0362,2025-08-09,Arjun Patel,South,Kochi,Office Supplies,Art Supplies,6120.36,-419.1,0.1
+ORD-0363,2024-06-26,Sneha Patil,West,Pune,Technology,Printers,24312.47,-469.29,0.05
+ORD-0364,2025-09-01,Rahul Mehta,South,Chennai,Office Supplies,Binders,8197.81,1901.23,0.3
+ORD-0365,2024-10-09,Karan Gupta,South,Kochi,Office Supplies,Pens,11616.48,2617.11,0.0
+ORD-0366,2024-05-31,Anjali Rao,South,Bengaluru,Furniture,Tables,14821.97,4057.14,0.0
+ORD-0367,2025-02-24,Rahul Mehta,West,Ahmedabad,Office Supplies,Pens,9761.17,1042.74,0.15
+ORD-0368,2025-09-25,Anjali Rao,East,Patna,Furniture,Tables,17116.08,-1793.77,0.15
+ORD-0369,2024-10-02,Arjun Patel,Central,Nagpur,Technology,Printers,9499.29,2032.5,0.1
+ORD-0370,2024-08-21,Sneha Patil,Central,Raipur,Office Supplies,Paper,7721.87,-185.4,0.3
+ORD-0371,2024-07-11,Priya Joshi,Central,Raipur,Office Supplies,Paper,5521.35,821.36,0.15
+ORD-0372,2024-03-08,Rahul Mehta,Central,Bhopal,Office Supplies,Binders,17826.36,-1222.89,0.15
+ORD-0373,2024-02-29,Diya Singh,West,Pune,Technology,Laptops,1116.85,303.01,0.0
+ORD-0374,2025-10-12,Arjun Patel,Central,Indore,Furniture,Storage,3359.66,116.51,0.0
+ORD-0375,2024-12-18,Sneha Patil,South,Chennai,Furniture,Bookcases,20990.05,3664.49,0.1
+ORD-0376,2024-06-15,Simran Kaur,Central,Bhopal,Furniture,Chairs,14434.77,3349.46,0.05
+ORD-0377,2025-06-09,Aashu Yadav,East,Patna,Office Supplies,Art Supplies,21656.36,-4033.88,0.3
+ORD-0378,2025-09-14,Rohan Das,East,Kolkata,Technology,Accessories,23592.22,4277.97,0.3
+ORD-0379,2024-09-15,Diya Singh,South,Kochi,Furniture,Storage,11827.44,323.96,0.3
+ORD-0380,2025-07-28,Vivek Kumar,West,Mumbai,Office Supplies,Pens,14966.18,600.78,0.1
+ORD-0381,2024-10-10,Rahul Mehta,West,Ahmedabad,Furniture,Bookcases,16506.15,108.7,0.3
+ORD-0382,2025-11-07,Neha Shah,East,Kolkata,Office Supplies,Art Supplies,17114.67,-2238.18,0.3
+ORD-0383,2025-02-01,Pooja Nair,Central,Indore,Furniture,Storage,1172.38,199.59,0.3
+ORD-0384,2025-11-18,Neha Shah,Central,Nagpur,Office Supplies,Art Supplies,12830.68,2844.48,0.05
+ORD-0385,2024-05-11,Pooja Nair,East,Patna,Technology,Printers,6688.7,1219.86,0.2
+ORD-0386,2024-08-16,Pooja Nair,Central,Bhopal,Technology,Accessories,21824.38,4167.42,0.15
+ORD-0387,2025-04-26,Aashu Yadav,Central,Indore,Furniture,Chairs,21699.92,1811.01,0.2
+ORD-0388,2025-11-28,Aman Verma,South,Chennai,Office Supplies,Paper,13387.01,-1302.99,0.15
+ORD-0389,2025-08-06,Arjun Patel,East,Bhubaneswar,Furniture,Storage,22693.54,-1511.73,0.15
+ORD-0390,2025-10-08,Sneha Patil,East,Kolkata,Furniture,Bookcases,8041.33,-388.8,0.0
+ORD-0391,2024-05-12,Anjali Rao,East,Bhubaneswar,Furniture,Chairs,11012.67,201.18,0.15
+ORD-0392,2025-01-17,Aashu Yadav,South,Bengaluru,Technology,Laptops,22332.56,-1282.74,0.2
+ORD-0393,2024-11-15,Sneha Patil,East,Bhubaneswar,Office Supplies,Pens,2836.89,348.01,0.2
+ORD-0394,2025-06-16,Anjali Rao,West,Ahmedabad,Furniture,Storage,13245.71,2464.53,0.15
+ORD-0395,2024-06-17,Arjun Patel,Central,Raipur,Furniture,Tables,22979.67,-1649.15,0.15
+ORD-0396,2025-08-26,Karan Gupta,East,Bhubaneswar,Office Supplies,Paper,4473.92,703.32,0.1
+ORD-0397,2025-08-31,Aashu Yadav,South,Hyderabad,Office Supplies,Paper,16650.66,3444.25,0.3
+ORD-0398,2024-05-06,Karan Gupta,West,Surat,Furniture,Storage,6542.64,-718.57,0.3
+ORD-0399,2025-11-09,Karan Gupta,West,Ahmedabad,Furniture,Chairs,6968.44,987.76,0.2
+ORD-0400,2024-04-18,Priya Joshi,West,Mumbai,Furniture,Chairs,5206.57,1044.73,0.05
+ORD-0401,2024-10-29,Sneha Patil,East,Patna,Office Supplies,Art Supplies,1273.32,270.37,0.15
+ORD-0402,2024-01-14,Vivek Kumar,South,Hyderabad,Technology,Phones,2498.37,605.43,0.0
+ORD-0403,2024-04-13,Arjun Patel,East,Kolkata,Office Supplies,Paper,6620.53,564.84,0.05
+ORD-0404,2024-06-27,Simran Kaur,Central,Raipur,Technology,Phones,1274.28,49.7,0.1
+ORD-0405,2024-01-10,Simran Kaur,South,Bengaluru,Technology,Phones,3718.34,-235.09,0.3
+ORD-0406,2025-01-16,Simran Kaur,South,Hyderabad,Office Supplies,Paper,8765.25,791.26,0.0
+ORD-0407,2025-03-07,Vivek Kumar,Central,Raipur,Office Supplies,Art Supplies,22187.26,-651.28,0.05
+ORD-0408,2025-08-27,Priya Joshi,West,Pune,Technology,Printers,20115.94,-0.04,0.3
+ORD-0409,2025-05-09,Arjun Patel,Central,Bhopal,Office Supplies,Binders,12356.63,1055.76,0.15
+ORD-0410,2025-11-16,Simran Kaur,Central,Bhopal,Office Supplies,Binders,8656.03,1051.06,0.2
+ORD-0411,2025-11-10,Vivek Kumar,South,Chennai,Furniture,Bookcases,16142.69,3672.38,0.05
+ORD-0412,2025-06-01,Simran Kaur,West,Mumbai,Office Supplies,Binders,11891.44,2792.15,0.15
+ORD-0413,2024-10-11,Aashu Yadav,South,Hyderabad,Technology,Accessories,12821.15,1575.71,0.2
+ORD-0414,2025-08-09,Priya Joshi,East,Kolkata,Furniture,Storage,2474.09,208.69,0.15
+ORD-0415,2025-02-26,Aashu Yadav,South,Bengaluru,Technology,Printers,14061.14,3361.57,0.0
+ORD-0416,2024-12-15,Neha Shah,Central,Nagpur,Office Supplies,Art Supplies,20685.18,4837.68,0.05
+ORD-0417,2024-04-26,Riya Sharma,South,Hyderabad,Office Supplies,Art Supplies,19055.2,-1168.73,0.05
+ORD-0418,2024-02-16,Arjun Patel,Central,Indore,Office Supplies,Paper,4354.64,948.41,0.05
+ORD-0419,2024-07-11,Riya Sharma,South,Bengaluru,Furniture,Tables,23276.34,-908.17,0.15
+ORD-0420,2024-02-17,Arjun Patel,East,Patna,Technology,Printers,15941.04,532.85,0.3
+ORD-0421,2025-05-25,Aashu Yadav,South,Kochi,Office Supplies,Binders,13400.0,1924.63,0.0
+ORD-0422,2024-05-11,Riya Sharma,South,Chennai,Office Supplies,Binders,9868.92,1148.83,0.2
+ORD-0423,2024-10-07,Aman Verma,South,Kochi,Office Supplies,Binders,24100.76,2245.25,0.1
+ORD-0424,2025-12-29,Pooja Nair,South,Hyderabad,Office Supplies,Pens,23407.15,-681.05,0.3
+ORD-0425,2025-12-28,Vivek Kumar,Central,Indore,Office Supplies,Binders,24386.93,2621.02,0.05
+ORD-0426,2025-08-19,Anjali Rao,Central,Bhopal,Furniture,Storage,23584.04,-557.22,0.3
+ORD-0427,2024-01-26,Aman Verma,Central,Raipur,Technology,Phones,3889.57,-358.72,0.3
+ORD-0428,2024-05-29,Simran Kaur,East,Patna,Office Supplies,Pens,1832.21,-18.77,0.1
+ORD-0429,2025-10-24,Karan Gupta,Central,Raipur,Technology,Laptops,9905.5,1392.73,0.2
+ORD-0430,2025-03-02,Rohan Das,Central,Bhopal,Furniture,Storage,24402.82,6732.48,0.1
+ORD-0431,2024-08-18,Arjun Patel,Central,Nagpur,Office Supplies,Art Supplies,15954.58,894.39,0.3
+ORD-0432,2024-06-30,Vivek Kumar,East,Bhubaneswar,Furniture,Storage,2139.38,427.64,0.05
+ORD-0433,2024-05-13,Sneha Patil,West,Surat,Furniture,Bookcases,14724.46,-1129.03,0.1
+ORD-0434,2025-09-03,Aashu Yadav,East,Kolkata,Technology,Accessories,19409.43,1087.63,0.3
+ORD-0435,2025-06-22,Diya Singh,South,Hyderabad,Technology,Accessories,23937.6,-2071.79,0.2
+ORD-0436,2024-08-14,Arjun Patel,South,Kochi,Technology,Accessories,5569.84,245.8,0.1
+ORD-0437,2025-04-01,Diya Singh,South,Bengaluru,Technology,Accessories,22641.06,5252.87,0.2
+ORD-0438,2025-01-30,Rahul Mehta,West,Ahmedabad,Furniture,Chairs,13643.86,-982.74,0.1
+ORD-0439,2024-10-30,Arjun Patel,Central,Raipur,Furniture,Chairs,16392.75,1343.13,0.1
+ORD-0440,2024-08-03,Vivek Kumar,East,Kolkata,Office Supplies,Paper,15849.01,3791.85,0.05
+ORD-0441,2025-10-24,Simran Kaur,West,Pune,Office Supplies,Art Supplies,23511.85,3697.59,0.3
+ORD-0442,2024-02-25,Sneha Patil,Central,Bhopal,Technology,Phones,19917.11,-2212.29,0.2
+ORD-0443,2025-10-07,Aman Verma,Central,Raipur,Furniture,Storage,10995.72,949.21,0.0
+ORD-0444,2025-12-18,Simran Kaur,West,Mumbai,Office Supplies,Paper,2092.96,-200.51,0.2
+ORD-0445,2025-01-25,Aman Verma,Central,Bhopal,Furniture,Storage,20606.42,2388.2,0.0
+ORD-0446,2025-10-11,Sneha Patil,East,Guwahati,Office Supplies,Pens,7662.0,244.36,0.3
+ORD-0447,2024-01-06,Anjali Rao,West,Pune,Technology,Phones,15037.38,1726.65,0.2
+ORD-0448,2025-10-23,Simran Kaur,East,Patna,Technology,Printers,12960.05,-38.11,0.05
+ORD-0449,2025-11-18,Rohan Das,Central,Nagpur,Technology,Laptops,14312.13,3549.2,0.0
+ORD-0450,2024-09-13,Riya Sharma,South,Bengaluru,Furniture,Chairs,5176.21,383.29,0.2
+ORD-0451,2025-09-26,Riya Sharma,East,Bhubaneswar,Technology,Accessories,22532.93,2183.84,0.1
+ORD-0452,2024-11-19,Aman Verma,Central,Nagpur,Office Supplies,Pens,4465.4,77.25,0.1
+ORD-0453,2025-11-26,Pooja Nair,South,Hyderabad,Furniture,Tables,8489.6,640.73,0.15
+ORD-0454,2024-06-28,Vivek Kumar,Central,Raipur,Office Supplies,Paper,15283.7,3590.9,0.1
+ORD-0455,2024-03-18,Arjun Patel,East,Patna,Office Supplies,Paper,760.17,65.42,0.2
+ORD-0456,2025-07-10,Arjun Patel,South,Chennai,Technology,Accessories,24968.59,3868.88,0.15
+ORD-0457,2024-05-17,Priya Joshi,South,Chennai,Office Supplies,Pens,12677.74,1126.73,0.0
+ORD-0458,2025-04-01,Sneha Patil,East,Bhubaneswar,Office Supplies,Binders,4724.89,393.94,0.2
+ORD-0459,2025-05-14,Diya Singh,South,Hyderabad,Technology,Laptops,1852.67,-8.96,0.1
+ORD-0460,2024-02-17,Aashu Yadav,Central,Raipur,Furniture,Storage,24520.57,-1535.21,0.1
+ORD-0461,2025-01-20,Vivek Kumar,Central,Indore,Office Supplies,Binders,9649.41,886.11,0.2
+ORD-0462,2024-12-27,Simran Kaur,Central,Raipur,Technology,Printers,21732.67,3459.84,0.15
+ORD-0463,2024-08-23,Riya Sharma,West,Pune,Furniture,Tables,13009.17,85.27,0.1
+ORD-0464,2025-02-28,Rohan Das,Central,Bhopal,Office Supplies,Binders,8456.55,1002.36,0.0
+ORD-0465,2024-01-23,Diya Singh,East,Bhubaneswar,Office Supplies,Art Supplies,1365.66,172.82,0.2
+ORD-0466,2024-09-21,Arjun Patel,West,Pune,Technology,Laptops,4746.93,526.71,0.15
+ORD-0467,2025-04-04,Anjali Rao,West,Ahmedabad,Technology,Laptops,24821.56,-1368.25,0.15
+ORD-0468,2024-06-20,Pooja Nair,East,Bhubaneswar,Office Supplies,Pens,17234.1,2406.85,0.15
+ORD-0469,2024-01-17,Diya Singh,South,Kochi,Technology,Phones,13210.97,1366.11,0.2
+ORD-0470,2025-06-28,Karan Gupta,West,Pune,Furniture,Chairs,18883.86,2243.11,0.0
+ORD-0471,2025-01-14,Simran Kaur,West,Surat,Office Supplies,Art Supplies,1372.93,6.95,0.2
+ORD-0472,2025-03-11,Sneha Patil,South,Kochi,Furniture,Chairs,6586.6,1724.72,0.05
+ORD-0473,2025-12-27,Pooja Nair,South,Hyderabad,Technology,Phones,19798.74,1411.81,0.2
+ORD-0474,2025-02-22,Neha Shah,South,Chennai,Office Supplies,Pens,2932.61,433.54,0.15
+ORD-0475,2025-11-27,Aman Verma,South,Hyderabad,Office Supplies,Pens,18947.81,1795.93,0.15
+ORD-0476,2024-09-16,Rahul Mehta,East,Patna,Office Supplies,Art Supplies,14567.98,623.18,0.3
+ORD-0477,2024-04-12,Diya Singh,West,Pune,Furniture,Tables,12856.09,2516.42,0.1
+ORD-0478,2024-04-03,Simran Kaur,West,Pune,Furniture,Chairs,3889.61,300.49,0.2
+ORD-0479,2025-01-28,Arjun Patel,East,Patna,Technology,Phones,24615.87,3366.07,0.2
+ORD-0480,2025-03-25,Aashu Yadav,West,Pune,Office Supplies,Art Supplies,5282.17,969.74,0.3
+ORD-0481,2025-09-21,Sneha Patil,East,Kolkata,Office Supplies,Binders,16948.4,402.16,0.1
+ORD-0482,2024-12-27,Vivek Kumar,East,Kolkata,Furniture,Storage,10060.03,-11.27,0.2
+ORD-0483,2025-07-26,Arjun Patel,West,Mumbai,Office Supplies,Pens,14698.43,3911.11,0.1
+ORD-0484,2024-09-24,Sneha Patil,East,Guwahati,Furniture,Chairs,10356.23,1507.05,0.0
+ORD-0485,2025-07-04,Simran Kaur,Central,Bhopal,Office Supplies,Pens,19896.71,2871.59,0.1
+ORD-0486,2025-11-28,Priya Joshi,South,Chennai,Furniture,Storage,22444.14,2663.89,0.0
+ORD-0487,2024-11-19,Aman Verma,South,Chennai,Office Supplies,Binders,23899.51,1467.73,0.2
+ORD-0488,2025-02-12,Vivek Kumar,Central,Nagpur,Furniture,Chairs,18795.07,-1327.79,0.1
+ORD-0489,2025-08-10,Rahul Mehta,South,Hyderabad,Furniture,Tables,4814.78,240.24,0.3
+ORD-0490,2024-09-28,Diya Singh,South,Chennai,Technology,Laptops,5961.43,1374.69,0.05
+ORD-0491,2025-09-20,Aashu Yadav,West,Mumbai,Technology,Printers,19176.83,3786.59,0.2
+ORD-0492,2025-05-17,Sneha Patil,Central,Indore,Furniture,Bookcases,24614.55,254.17,0.2
+ORD-0493,2025-05-04,Karan Gupta,East,Kolkata,Office Supplies,Art Supplies,1104.3,55.6,0.1
+ORD-0494,2024-11-19,Pooja Nair,East,Guwahati,Technology,Printers,507.94,-38.58,0.3
+ORD-0495,2024-07-10,Karan Gupta,Central,Indore,Office Supplies,Pens,6792.37,546.43,0.1
+ORD-0496,2024-08-03,Aman Verma,Central,Nagpur,Furniture,Storage,17607.6,911.26,0.1
+ORD-0497,2025-08-12,Vivek Kumar,South,Chennai,Office Supplies,Binders,5945.6,1202.71,0.0
+ORD-0498,2024-06-02,Priya Joshi,South,Kochi,Technology,Laptops,20200.01,1814.83,0.05
+ORD-0499,2025-07-29,Simran Kaur,Central,Raipur,Furniture,Bookcases,14325.51,-575.3,0.15
+ORD-0500,2025-04-05,Pooja Nair,East,Patna,Furniture,Chairs,8566.02,375.26,0.1
